@@ -17,5 +17,6 @@ pip-selfcheck.json
 *.docx
 #instrumentos.csv
 Untitled.ipynb
+.ipynb_checkpoints
 
 # End of https://www.toptal.com/developers/gitignore/api/venv
